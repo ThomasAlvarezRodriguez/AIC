@@ -15,3 +15,5 @@ Carte avec taille de pays proportionnelle au nombre d'attentats / victimes d'att
 Histogramme nombre d'attentats ( ségrégation par types d'armes)
 -Traitement :
 Groupements pour alléger la visualisation
+
+Projet : IA prédictive du pays accueillant l'attentat en fonction de la date, du type de l'arme etc
