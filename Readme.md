@@ -45,7 +45,7 @@ Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 ### Usage
 Install the required libraries.
-Make sure the dataset file (Trait2.csv) is in the same directory as the code.
+Make sure the dataset file is in the same directory as the code.
 Run the code using a Python interpreter or an IDE like Jupyter Notebook, Spyder, or PyCharm.
 Evaluate the model's performance using various metrics, such as accuracy, mean squared error, mean absolute error, and R-squared.
 Visualize the results using graphs like scatter plots, error distribution plots, and heatmaps.
