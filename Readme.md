@@ -54,4 +54,4 @@ Visualize the results using graphs like scatter plots, error distribution plots,
 The code uses various machine learning algorithms, such as RandomForestRegressor, LogisticRegression, MLPRegressor, and RandomForestClassifier.
 It employs techniques like label encoding, feature scaling, and feature selection to preprocess the data and improve the model's performance.
 The code can be easily modified to include other machine learning algorithms or additional features for prediction.
-The dataset used (Trait2.csv) may need to be updated or replaced with a more recent version to improve the accuracy of the predictions.
+The dataset used may need to be updated or replaced with a more recent version to improve the accuracy of the predictions.
